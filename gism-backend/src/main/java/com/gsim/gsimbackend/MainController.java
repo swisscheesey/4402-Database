@@ -1,4 +1,4 @@
-package com.gsim.gsimbackend;
+package main.java.com.gsim.gsimbackend;
 
 import org.springframework.web.bind.annotation.RestController;
 
