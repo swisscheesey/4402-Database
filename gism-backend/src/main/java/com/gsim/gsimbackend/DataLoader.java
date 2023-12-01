@@ -1,8 +1,10 @@
-package main.java.com.gsim.gsimbackend;
+package com.gsim.gsimbackend;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
+
+import nz.net.osnz.common.jpa.EntityRepository;
 
 @Component
 public class DataLoader implements CommandLineRunner {
