@@ -22,7 +22,9 @@ Download the relevent version for your device.
 
 JDK 17
 Download JDK 17 from https://www.oracle.com/java/technologies/downloads/#java17.
-Download the relevent installer for your device. ## GETTING UP AND RUNNING
+Download the relevent installer for your device.
+
+## GETTING UP AND RUNNING
 
 1. Open the "gism-backend" folder in your Java IDE
 
