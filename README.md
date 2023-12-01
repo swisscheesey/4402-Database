@@ -30,14 +30,12 @@ Download the relevent installer for your device.
 
 2. Build the project using Maven and run the main class using the Spring Boot application.
 
-## FRONT END START
+3. Open any terminal and navigate to the "gsim-frontend" directory
 
-1. Open any terminal and navigate to the "gsim-frontend" directory
-
-2. Install project dependencies
+4. Install project dependencies:
    npm install
 
-3. Start dev server
+5. Start dev server:
    npm start
 
 ## TEAM MEMBERS
