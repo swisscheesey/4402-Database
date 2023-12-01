@@ -59,6 +59,28 @@ VALUES (19, 'Chicken Tenders', 5.75, 'Circle K', 3, 'offsite spot 4');
 INSERT INTO item (product_ID, product_name, price, brand, category_ID, inventory_name)
 VALUES (20, 'Sports Drink', 2.15, 'Hammerade', 1, 'warehouse spot 4');
 
+INSERT INTO item (product_ID, product_name, price, brand, category_ID, inventory_name)
+VALUES(21, 'Rum', 20.00, 'Bacardi',4, 'shelf spot 5' );
+
+INSERT INTO item (product_ID, product_name, price, brand, category_ID, inventory_name)
+VALUES(22,'lollipop',1.00, 'Chupa Chups',5,'backroom spot 5');
+
+INSERT INTO item (product_ID, product_name, price, brand, category_ID, inventory_name)
+VALUES(23, 'Cigars',35.00, 'Thompson Cigars',6,'shed spot 5' );
+
+INSERT INTO item (product_ID, product_name, price, brand, category_ID, inventory_name)
+VALUES(24, 'Licorice', 4.00, 'Twizzlers',5,'offsite spot 5');
+
+INSERT INTO item (product_ID, product_name, price, brand, category_ID, inventory_name)
+VALUES(25, 'Beer', 12.00, 'Miller Lite',4, 'warehouse spot 5');
+
+
+
+
+
+
+
+
 
 
 INSERT INTO category (category_ID, category_name)
