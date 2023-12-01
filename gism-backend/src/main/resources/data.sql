@@ -173,7 +173,7 @@ INSERT INTO inventory (inventory_name, current_stock, desired_stock)
 VALUES('shed spot 5', 10, 15);
 
 INSERT INTO inventory (inventory_name, current_stock, desired_stock)
-VALUES('offsire spot 5', 100, 150);
+VALUES('offsite spot 5', 100, 150);
 
 INSERT INTO inventory (inventory_name, current_stock, desired_stock)
 VALUES('warehosue spot 5', 150,200);
