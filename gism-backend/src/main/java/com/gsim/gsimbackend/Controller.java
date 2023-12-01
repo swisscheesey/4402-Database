@@ -1,9 +1,9 @@
-package main.java.com.gsim.gsimbackend;
+package com.gsim.gsimbackend;
 
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class MainController {
+public class Controller {
 
     public String helloTest() {
         return "hello from the backend";
