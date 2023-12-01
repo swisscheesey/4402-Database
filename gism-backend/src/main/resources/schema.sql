@@ -1,0 +1,10 @@
+
+CREATE TABLE TEST (
+    Item_ID INT AUTO_INCREMENT PRIMARY KEY,
+    Item VARCHAR(50),
+    Price DECIMAL(10,2),
+    Brand VARCHAR(50)
+);
+
+
+
