@@ -91,7 +91,7 @@ INSERT INTO inventory (inventory_name, current_stock, desired_stock)
 VALUES('offsite spot 5', 100, 150);
 
 INSERT INTO inventory (inventory_name, current_stock, desired_stock)
-VALUES('warehosue spot 5', 150,200);
+VALUES('warehouse spot 5', 150,200);
 
 
 INSERT INTO item (product_ID, product_name, price, brand, category_ID, inventory_name)
