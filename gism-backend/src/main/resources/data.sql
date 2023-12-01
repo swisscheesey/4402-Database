@@ -162,3 +162,18 @@ VALUES ('offsite spot 4', 7, 50);
 
 INSERT INTO inventory (inventory_name, current_stock, desired_stock)
 VALUES ('warehouse spot 4', 15, 15);
+
+INSERT INTO inventory (inventory_name, current_stock, desired_stock)
+VALUES ('shelf spot 5', 20, 30 );
+
+INSERT INTO inventory (inventory_name, current_stock, desired_stock)
+VALUES('backroom spot 5', 200, 250);
+
+INSERT INTO inventory (inventory_name, current_stock, desired_stock)
+VALUES('shed spot 5', 10, 15);
+
+INSERT INTO inventory (inventory_name, current_stock, desired_stock)
+VALUES('offsire spot 5', 100, 150);
+
+INSERT INTO inventory (inventory_name, current_stock, desired_stock)
+VALUES('warehosue spot 5', 150,200);
