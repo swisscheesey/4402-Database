@@ -1,4 +1,4 @@
 
-INSERT INTO TEST (Item_ID, Item, Brand, Price)
-VALUES (1, 'Chips', 'Lays', 90000.00);
+INSERT INTO item (product_ID, product_name, price, brand)
+VALUES (1, 'Chips', 90000.00, 'Lays');
 
