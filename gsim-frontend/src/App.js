@@ -33,7 +33,7 @@ function App() {
 
   return (
     <div style={containerStyle}>
-      <h1>CSC 4402 Example</h1>
+      <h1>Gas Station Inventory Management</h1>
       <div style={example}>{message}</div>
       <div><p></p></div>
       
@@ -72,9 +72,9 @@ function App() {
 
       <div style={example}>
       example statements to try:
-      <p>SELECT * FROM TEST</p>
-      <p>INSERT INTO TEST (Item_ID, Item, Brand, Price)
-VALUES (1, 'Chips', 'Sales', 45000.00); </p>
+      <p>SELECT * FROM item</p>
+      <p>INSERT INTO item (product_ID, product_name, price, brand, category_ID, inventory_name)
+VALUES (1, 'Green Chips', 2.00, 'Big Chip Co', 2, 'warehouse spot 20'); </p>
       </div>
 
     </div>
@@ -88,7 +88,7 @@ const containerStyle = {
   flexDirection: 'column',
   alignItems: 'center',
   fontFamily: 'monospace',
-  fontSize: '1.2rem',
+  fontSize: '1.0rem',
   textAlign: 'center',
   marginTop: '50px',
 };

@@ -13,7 +13,7 @@ CREATE TABLE inventory (
 CREATE TABLE item (
     product_ID INT PRIMARY KEY,
     product_name VARCHAR(50),
-    price DECIMAL(10,2),
+    price INT,
     brand VARCHAR(50),
     category_ID INT,
     inventory_name VARCHAR(50),

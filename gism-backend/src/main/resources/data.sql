@@ -1,6 +1,6 @@
 
 INSERT INTO item (product_ID, product_name, price, brand, category_ID, inventory_name)
-VALUES (1, 'Potato Chips', 2.00, 'Air-Chips', 2, 'shelf spot 1');
+VALUES (1, 'Potato Chips', 200, 'Air-Chips', 2, 'shelf spot 1');
 
 INSERT INTO item (product_ID, product_name, price, brand, category_ID, inventory_name)
 VALUES (2, 'Cheddar Chips', 3.50, 'Air-Chips', 2, 'backroom spot 1');
